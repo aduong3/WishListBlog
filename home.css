@@ -3,7 +3,7 @@ body{
     max-height: 100vh;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
 .page{
     display: flex;
